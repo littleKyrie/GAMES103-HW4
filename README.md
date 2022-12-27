@@ -22,4 +22,8 @@ We calculate a virtual height in order to update the height using an existing fo
 User can press 'r' to randomly generate waves and drag the left cube by mose to see the two-way coupling effects.
 
 ## Effects
-<img width="458" alt="image" src="https://user-images.githubusercontent.com/53171201/209613744-6451f922-23ae-46c5-a97e-5882b8fd0315.png">
+
+
+
+https://user-images.githubusercontent.com/53171201/209670667-17e0ec6e-fc9f-4839-a819-21352f029fe4.mov
+
